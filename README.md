@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.unnijsx.online/assets/myimage1-g1dU28vM.jpg" align="center" style="width: 40%" />
+<img src="https://www.unnijsx.online/assets/myimage1-g1dU28vM.jpg" align="center" style="width: 30%" />
 </div>  
   
 
