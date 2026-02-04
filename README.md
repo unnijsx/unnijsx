@@ -1,108 +1,71 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1448196068918427658/1468475293600714935/1760508659745-UNNIKRISHNAN_V_P.png?ex=698427b0&is=6982d630&hm=bc00aa4e9d6b5493aeabcfcde83244005ce6725e121c244a04976ff1d2f3e8e8&" align="center" style="width: 80%" />
-</div>  
-  
-
-### <div align="center">I'm Unnikrishnan, a full-time full-stack developer 👨‍💻</div>  
-  
-
-- 🔭 I’m currently working on [My Gits](https://github.com/unnijsx).  
-  
-
-- 🌱 I’m currently learning  DevOps.  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies.  
-  
-
-- ⚡ Fun fact: I use tabs over spaces and I breath air.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hi,%20I'm%20Unnikrishnan%20👋&fontSize=70&animation=fadeIn" width="100%" />
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Learning+DevOps...;Tabs+>+Spaces+Always" alt="Typing SVG" />
 </div>
 
-</td></tr></table>  
+---
 
-<br/>  
+### 🧐 About Me
+- 🔭 **Currently crafting:** Innovative projects over at [My Gits](https://github.com/unnijsx).
+- 🌱 **Growth Mindset:** Diving deep into the world of **DevOps** (CI/CD, Docker, Kubernetes).
+- 💬 **Ask me about:** Why MERN is king, building scalable APIs, or UI/UX logic.
+- ⚡ **Fun Fact:** I breathe air (occasionally) and I strictly believe spaces are just broken tabs.
 
+---
 
-## Connect with me  
+### 🛠️ My Tech Toolbox
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Frontend-Focus-blue?style=for-the-badge" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,figma,mui,tailwind" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Backend-Power-red?style=for-the-badge" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,py,postman" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Github Performance Metrics
 <div align="center">
-<a href="https://github.com/unnijsx" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/unnikrishnanvp" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/unni__xd" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=unnijsx&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<br/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unnijsx&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnijsx&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" />
+</div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=unnijsx&&style=flat-square" align="center" />
-</div>  
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unnijsx&theme=transparent&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7" />
+</div>
 
-<br/>  
+---
 
+### ✍️ Recent Thought-Logs
+*Stay tuned! My latest articles will appear here automatically.*
+---
+
+### 🤝 Connect & Support
 <div align="center">
-            <a href="https://www.buymeacoffee.com/unnijsx" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+  <a href="https://linkedin.com/in/unnikrishnanvp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/unni__xd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/unnijsx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
 <br />
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/unnijsx">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=unnijsx&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+</div>
