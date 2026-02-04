@@ -36,13 +36,15 @@
 ---
 
 ### 📊 Github Performance Metrics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unnijsx&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnijsx&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unnijsx&show_icons=true&theme=react&hide_border=true&title_color=36BCF7" alt="Unnikrishnan's Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnijsx&layout=compact&theme=react&hide_border=true&title_color=36BCF7" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unnijsx&theme=transparent&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unnijsx&theme=react&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" alt="GitHub Streak" />
 </div>
 
 ---
