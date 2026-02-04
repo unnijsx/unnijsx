@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1448196068918427658/1468475293600714935/1760508659745-UNNIKRISHNAN_V_P.png?ex=698427b0&is=6982d630&hm=bc00aa4e9d6b5493aeabcfcde83244005ce6725e121c244a04976ff1d2f3e8e8&" align="center" style="width: 30%" />
+<img src="https://cdn.discordapp.com/attachments/1448196068918427658/1468475293600714935/1760508659745-UNNIKRISHNAN_V_P.png?ex=698427b0&is=6982d630&hm=bc00aa4e9d6b5493aeabcfcde83244005ce6725e121c244a04976ff1d2f3e8e8&" align="center" style="width: 80%" />
 </div>  
   
 
