@@ -21,23 +21,35 @@
 
 <div align="center">
   
-| Frontend | Backend | Database & Tools |
-|----------|---------|------------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Frontend** | **Backend** | **Database & Tools** |
+|--------------|-------------|----------------------|
+| <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,figma,mui,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,python,postman" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,docker,kubernetes" /> |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unnijsx&show_icons=true&theme=react&hide_border=true&title_color=36BCF7&icon_color=36BCF7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnijsx&layout=compact&theme=react&hide_border=true&title_color=36BCF7" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unnijsx&theme=react&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=unnijsx&theme=react&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+  
+### 📈 Contribution Graph
+[![Unnikrishnan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=unnijsx&theme=react-dark&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🔥 Stats & Languages
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=unnijsx&show_icons=true&theme=react&hide_border=true&title_color=36BCF7&icon_color=36BCF7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnijsx&layout=compact&theme=react&hide_border=true&title_color=36BCF7" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=unnijsx&theme=react&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+
+### 📅 3D Contributions Calendar
+<img src="https://raw.githubusercontent.com/unnijsx/unnijsx/main/profile-3d-contrib/profile-night-green.svg" width="800" />
+
+### 📊 Weekly Development Breakdown
+<!-- This section automatically updates via WakaTime if you have it set up -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=unnijsx&theme=react&hide_border=true&title_color=36BCF7&layout=compact" />
+
 </div>
 
 ---
@@ -45,7 +57,7 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-*Stay tuned – I'll share my learnings and insights here soon!*
+*I'm currently drafting articles on MERN best practices and DevOps for beginners.*
 <!-- BLOG-POST-LIST:END -->
 
 ---
