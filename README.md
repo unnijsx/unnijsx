@@ -46,9 +46,8 @@
 ### 📅 3D Contributions Calendar
 <img src="https://raw.githubusercontent.com/unnijsx/unnijsx/main/profile-3d-contrib/profile-night-green.svg" width="800" />
 
-### 📊 Weekly Development Breakdown
-<!-- This section automatically updates via WakaTime if you have it set up -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=unnijsx&theme=react&hide_border=true&title_color=36BCF7&layout=compact" />
+### 📊 GitHub Metrics
+<img src="https://github.com/unnijsx/unnijsx/blob/main/github-metrics.svg" alt="Metrics" width="100%" />
 
 </div>
 
