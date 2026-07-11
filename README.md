@@ -23,7 +23,7 @@
 const unni = {
     role: "Full Stack Developer",
     stack: ["MongoDB", "Express", "React", "Node.js"],
-    currentlyLearning: ["Docker", "Kubernetes", "CI/CD"],
+    currentlyLearning: ["Docker", "Hosting & DNS Management", "CI/CD"],
     portfolio: "www.unni.rheox.online",
     funFact: "I debug for 3 hours just to find a missing semicolon."
 }
